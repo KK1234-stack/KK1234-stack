@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to cyber-security and back-end dev
 - 📫 How to reach me
 - email-> korabk.cs.22@nitj.ac.in
+- LinkedIn-> https://www.linkedin.com/in/korab-kanwar-98366226b/
   
 
 <!---
