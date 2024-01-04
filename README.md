@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KK1234-stack
+- 👋 Hi, I’m KK @KK1234-stack
 - 👀 I’m interested in Cyber security and Back-end development
 - 🌱 I’m currently learning JS and back-end dev
 - 💞️ I’m looking to collaborate on projects related to cyber-security and back-end dev
