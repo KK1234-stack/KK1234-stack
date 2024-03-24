@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KK @KK1234-stack
-- 👀 I’m interested in Cyber security and Back-end development
+- 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning Cybersecurity fundamentals and tools
-- 💞️ I’m looking to collaborate on projects related to cyber-security and back-end dev
+- 💞️ I’m looking to collaborate on projects related to cyber-security
 - 📫 How to reach me
 - email-> korabk.cs.22@nitj.ac.in
 - LinkedIn-> https://www.linkedin.com/in/korab-kanwar-98366226b/
